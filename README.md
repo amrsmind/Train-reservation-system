@@ -1,5 +1,5 @@
 # Train-reservation-system
-It's a simple train reseravation system by c# and connect with sql database (check ERD)
+It's a simple train reseravation system by c# and connected with sql database (check ERD)
 functionalities:
 1. Signing up a new user (e.g. admin, customer)
 2. Updating a user details
